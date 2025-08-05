@@ -10,4 +10,4 @@ I'm a `Senior Full-Stack Developer` with over **10 years of experience** designi
 - ⚙️ Integrated with my terminal, Git, and testing tools for full-stack workflows.
 
 #### 🧰 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,kotlin,js,lua,c,cpp,fastapi,flask,django,react,vite,ts,ember,astro,bootstrap,html,css,postgres,mysql,mongodb,redis,docker,bash,nginx,ansible,jenkins,linux,androidstudio,git,github,neovim,vscode&perline=12&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,kotlin,js,lua,c,cpp,fastapi,flask,django,react,vite,ts,ember,astro,bootstrap,html,css,postgres,mysql,mongodb,redis,docker,bash,nginx,ansible,jenkins,linux,androidstudio,git,github,neovim,vscode&perline=12&theme=light)](https://skillicons.dev)
