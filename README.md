@@ -4,6 +4,12 @@
 #### 🙋‍♂️ About Me
 I'm a `Senior Full-Stack Developer` with over **10 years of experience** designing, developing, and maintaining robust and scalable software solutions. A certified Systems Engineer, I've worked on remote projects for companies in the US and Latin America, from legacy systems to new production architectures.
 
+#### 🏛️ Software Architecture
+1. **Characteristics:** Emerge from project needs—scalable, maintainable, performant, secure, observable, among other “-ilities”.
+2. **ADRs:** Generate and evaluate options to make informed architectural decisions.  
+3. **Logical Components:** Define system structure with clear modules and responsibilities.  
+4. **Styles:** Select the architectural style that best fits the components and decisions, aligning with project goals.
+
 #### 🤖 AI-enhanced Workflow
 - 🧠 **Avante + MCP Hub**: AI-first Neovim setup with local/integrated models.
 - 🧑‍💻 Use LLMs to refactor, debug, write, and document code within the editor.
